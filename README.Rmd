@@ -16,4 +16,4 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-[Native Flora](https://djnavarro.net/series-native-flora) is an art repository by Danielle Navarro, released into the public domain under a [CC0 licence](./LICENSE.md)
+[Native Flora](https://art.djnavarro.net/gallery/native-flora/) is an art repository by Danielle Navarro, released into the public domain under a [CC0 licence](./LICENSE.md)
