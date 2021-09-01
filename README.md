@@ -6,4 +6,6 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-An art repository at <https://djnavarro.net/series-native-flora>
+[Native Flora](https://djnavarro.net/series-native-flora) is an art
+repository by Danielle Navarro, released into the public domain under a
+[CC0 licence](./LICENSE.md)
